@@ -2,3 +2,4 @@
 heart
 circle
 square
+triangle
