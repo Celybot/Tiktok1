@@ -3,3 +3,4 @@
 add video 
 add emojis
 add photo
+add add movie
