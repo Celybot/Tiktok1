@@ -2,3 +2,4 @@
 add game
 add gif
 add funny movie
+add text messages
